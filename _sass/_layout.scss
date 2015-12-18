@@ -234,3 +234,18 @@
         }
     }
 }
+
+  /*
+    rss-subscribe
+  */
+.rss-subscribe {
+  color: $grey-color-dark;
+
+  padding-top: 15px;
+  margin-bottom: 0px;
+
+  a {
+    color: $brand-color;
+    font-size: 80%;
+  }
+}
