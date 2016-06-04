@@ -1,5 +1,5 @@
 # Site settings
-title: lalako
+title: builder
 email: liuchenpei@126.com
 description: > # this means to ignore newlines until "baseurl:"
   记录诗歌、脑洞、喜欢的文字和喜欢的技术。
@@ -11,3 +11,4 @@ github_username:  tenCats
 
 # Build settings
 markdown: kramdown
+future: true

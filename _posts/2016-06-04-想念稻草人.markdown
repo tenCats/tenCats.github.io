@@ -5,7 +5,7 @@ date:   2016-06-04 10:35:00
 categories: poems
 ---
 
-__to my dearest lover__
+######  *to my dearest lover*
 
 想念进入神经升华至头顶再经由面部肌肉传到到泪腺刺激。
 
@@ -22,5 +22,3 @@ __to my dearest lover__
 啊——躺在地上真是寒冷啊
 
 爱人形状的稻草人咧着嘴，站在飒飒的风中，一晃一晃的，害我认错成你
-
-fin
