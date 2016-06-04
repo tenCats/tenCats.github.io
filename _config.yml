@@ -12,3 +12,4 @@ github_username:  tenCats
 # Build settings
 markdown: kramdown
 future: true
+timezone: Asia/Shanghai
