@@ -2,7 +2,7 @@
 layout: post
 title:  "出租房客"
 date:   2016-06-04 10:25:00
-categories: poems
+categories: poem
 ---
 
 ###### *献给 你 或 我自己*

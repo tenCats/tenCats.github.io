@@ -2,7 +2,7 @@
 layout: post
 title:  "June 4th. To you"
 date:   2016-06-04 21:25:00
-categories: poems
+categories: poem
 ---
 
 ###### *you*
