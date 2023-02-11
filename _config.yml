@@ -1,11 +1,11 @@
 # Site settings
 title: builder
-email: liuchenpei@126.com
+# email: liuchenpei@126.com
 description: > # this means to ignore newlines until "baseurl:"
   希望为世间做一些微小的工作...
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://tenCats.github.io" # rotocol for your site
-weibo_username: lalako
+# weibo_username: lalako
 weibo_domain: lalakosite
 github_username:  tenCats
 
